@@ -36,8 +36,7 @@ Your project must be guided by clear, measurable data science inquiries. Use the
 Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
 :::
 
-### Prior Work 1: [Microplastic–Tebuconazole Interactions Under Ocean Acidification: Role of Material Type and Salinity
-]
+### Prior Work 1: [Microplastic–Tebuconazole Interactions Under Ocean Acidification: Role of Material Type and Salinity]
 * **Source/Authors:** 
 * **Core Finding:** 
 * **How it informs our project:** 
