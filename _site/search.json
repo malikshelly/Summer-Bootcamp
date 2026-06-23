@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "NoteLab Task 1: The “Why”\n\n\n\nThe real world context of my topic is related to “Ocean Acidification” and the impact it has in our lives. This is a pressing issue in the world we live in today. One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is the contributing factor. This The topic ts related to a sub topic in my chemistry curriculum and my students will learn the cause and impacts it has in our lives. This would include research.\nStart typing your project introduction here…\n\n\n\nYour project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.\n\nPrimary Research Question (RQ1): e.g., To what extent can historical local weather patterns predict weekend public transit delays in major urban centers?\nSecondary Research Question (RQ2): e.g., Does this predictive relationship hold true across different socio-economic neighborhoods within the city limits?\n\n\n\n\n\n\n\n\n\n\n\nTipAcademic Scaffolding\n\n\n\nFind at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:\n\n\n\n\n\n\nBriefly document the raw data you intend to use to answer your research questions.\n\n\n\n\n\n\n\n\n\nData Asset Name\nSource Agency / URL\nFormat (.csv, API, SQL)\nRow/Column Count (Est.)\n\n\n\n\nExample Dataset\nCity Data Portal\n.csv\n~50,000 x 12"
+  },
+  {
+    "objectID": "index.html#introduction-motivation",
+    "href": "index.html#introduction-motivation",
+    "title": "Introduction",
+    "section": "",
+    "text": "NoteLab Task 1: The “Why”\n\n\n\nThe real world context of my topic is related to “Ocean Acidification” and the impact it has in our lives. This is a pressing issue in the world we live in today. One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is the contributing factor. This The topic ts related to a sub topic in my chemistry curriculum and my students will learn the cause and impacts it has in our lives. This would include research.\nStart typing your project introduction here…\n\n\n\nYour project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.\n\nPrimary Research Question (RQ1): e.g., To what extent can historical local weather patterns predict weekend public transit delays in major urban centers?\nSecondary Research Question (RQ2): e.g., Does this predictive relationship hold true across different socio-economic neighborhoods within the city limits?\n\n\n\n\n\n\n\n\n\n\n\nTipAcademic Scaffolding\n\n\n\nFind at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:\n\n\n\n\n\n\nBriefly document the raw data you intend to use to answer your research questions.\n\n\n\n\n\n\n\n\n\nData Asset Name\nSource Agency / URL\nFormat (.csv, API, SQL)\nRow/Column Count (Est.)\n\n\n\n\nExample Dataset\nCity Data Portal\n.csv\n~50,000 x 12"
+  },
+  {
+    "objectID": "index.html#official-research-questions",
+    "href": "index.html#official-research-questions",
+    "title": "Introduction",
+    "section": "",
+    "text": "Your project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.\n\nPrimary Research Question (RQ1): e.g., To what extent can historical local weather patterns predict weekend public transit delays in major urban centers?\nSecondary Research Question (RQ2): e.g., Does this predictive relationship hold true across different socio-economic neighborhoods within the city limits?"
+  },
+  {
+    "objectID": "index.html#initial-literature-review",
+    "href": "index.html#initial-literature-review",
+    "title": "Introduction",
+    "section": "",
+    "text": "TipAcademic Scaffolding\n\n\n\nFind at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:\n\n\n\n\n\nSource/Authors:\nCore Finding:\nHow it informs our project:"
+  },
+  {
+    "objectID": "index.html#data-source-orientation",
+    "href": "index.html#data-source-orientation",
+    "title": "Introduction",
+    "section": "",
+    "text": "Briefly document the raw data you intend to use to answer your research questions.\n\n\n\n\n\n\n\n\n\nData Asset Name\nSource Agency / URL\nFormat (.csv, API, SQL)\nRow/Column Count (Est.)\n\n\n\n\nExample Dataset\nCity Data Portal\n.csv\n~50,000 x 12"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

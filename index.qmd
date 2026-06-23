@@ -1,7 +1,59 @@
 ---
-title: "Summer-Bootcamp"
+title: "Introduction"
+subtitle: "Project Framing and Literature Review"
+
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
 ---
 
-This is a Quarto website.
+## Introduction & Motivation
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.callout-note}
+### Lab Task 1: The "Why"
+The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is the contributing factor. This The topic ts related to a sub topic in my chemistry curriculum and my students will learn the cause and impacts it has in our lives. This would include research. 
+
+
+*Start typing your project introduction here...*
+
+---
+
+## Official Research Questions
+
+Your project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.
+
+* **Primary Research Question (RQ1):** *e.g., To what extent can historical local weather patterns predict weekend public transit delays in major urban centers?*
+* **Secondary Research Question (RQ2):** *e.g., Does this predictive relationship hold true across different socio-economic neighborhoods within the city limits?*
+
+---
+
+## Initial Literature Review
+
+::: {.callout-tip}
+### Academic Scaffolding
+Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
+:::
+
+### Prior Work 1: [Microplastic–Tebuconazole Interactions Under Ocean Acidification: Role of Material Type and Salinity
+]
+* **Source/Authors:** 
+* **Core Finding:** 
+* **How it informs our project:** 
+
+### Prior Work 2: [Title of Paper/Article Here]
+* **Source/Authors:** 
+* **Core Finding:** 
+* **How it informs our project:** 
+
+---
+
+## Data Source Orientation
+
+Briefly document the raw data you intend to use to answer your research questions.
+
+| Data Asset Name  | Source Agency / URL | Format (.csv, API, SQL) | Row/Column Count (Est.) |
+|----------------- |---------------------|-------------------------|-------------------------|
+| *Example Dataset*| *City Data Portal*  | *.csv*                  | *~50,000 x 12*          |
+|                  |                     |                         |                         |
