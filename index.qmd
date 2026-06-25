@@ -11,7 +11,6 @@ format:
 
 ## Introduction & Motivation
 
-::: {.callout-note}
 ### Lab Task 1: The "Why"
 The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. "Why do ocean acidification levels differ among countries with coastlines in different ocean regions?" One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is a factor. My topic will compare the data to a few countries by " using monitoring stations in GOA-ON" to explore the casues of different acidification levels.The topic is relevant and it is intertwined with the MCPS curriculum unit "Acids and Bases" where students learn the cause and impacts of changing ocean chemistry.
 
