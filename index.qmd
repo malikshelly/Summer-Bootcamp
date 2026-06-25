@@ -12,15 +12,16 @@ format:
 ## Introduction & Motivation
 
 ### Lab Task 1: The "Why"
-The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. "Why do ocean acidification levels differ among countries with coastlines in different ocean regions?" One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is a factor. My topic will compare the data to a few countries by " using monitoring stations in GOA-ON" to explore the casues of different acidification levels.The topic is relevant and it is intertwined with the MCPS curriculum unit "Acids and Bases" where students learn the cause and impacts of changing ocean chemistry.
+The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. My project is based on ocean acidification "Why do ocean acidification levels differ among the eight major marine and Great Lakes ecosystem in the US with different coastline". My research question will compare the data of a few regions in the United States using the "NOAA, National Marine Ecosystem Status" site to the look into the casues of different acidification levels. This topic is relevant and it is intertwined with the MCPS curriculum unit "Acids and Bases" where students learn the cause and impacts of our changing ocean chemistry.
 
 
-*Start typing your project introduction here...* Our ocean absorbs a large amount of carbon dioxide and this is changing the chemistry of our ocean. This absorption of cardon dioxide is increasing the acidity of our ocean, which has impacted marine life and people who depend on them. NOAA Pacific Marine Environmental Laboratory Carbon Group,has through their data shown ocean CO2 rising with an increase in atmospheric CO2. In turn, the pH of the ocean decreases, which reflects an increasd in acidity. https://oceanacidification.noaa.gov/what-is-ocean-acidification/?utm_source=chatgpt.com
-  https://ecowatch.noaa.gov/national-status https://ecowatch.noaa.gov/thematic/ocean-acidification
+ Our ocean absorbs a large amount of carbon dioxide to maintain a chemical equilibrium with the atmosphere. Because human activities have drastically raised atmospheric CO2 levels, the ocean takes up roughly 25% to 30% of these emissions to balance the difference, acting as a critical carbon sink. A carbon sink is any natural or artificial reservoir that absorbs and stores more carbon dioxide (CO₂) from the atmosphere than it releases. This absorption of carbon dioxide is increasing the acidity of our ocean, which has impacted marine life and people who depend on them. NOAA Pacific Marine Environmental Laboratory Carbon Group,has through their data shown ocean CO2 rising with an increase in atmospheric CO2. In turn, the pH of the ocean decreases, which reflects an increasd in acidity. 
+
+https://oceanacidification.noaa.gov/what-is-ocean-acidification/?utm_source=chatgpt.com
+
+https://ecowatch.noaa.gov/national-status https://ecowatch.noaa.gov/thematic/ocean-acidification
 
 https://ecowatch.noaa.gov/national-status
-
-
 
 
 
@@ -29,18 +30,48 @@ https://ecowatch.noaa.gov/national-status
 
 Your project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.
 
-* **Primary Research Question (RQ1):** *e.g., How do acidification and decreased pH affect marine organisms? 
-* **Secondary Research Question (RQ2):* To check for indicators that data collected is safe for our marine ecosystem -coastal, and aquatic ecosystems. Our ocean absorbs carbon dioxide which is causing a fundamental and global change in the chemistry of ocean.
+* **Primary Research Question (RQ1):** Is increasing ocean acidification causing a change in pH leading to an affect on marine organisms?
+
+* **Secondary Research Question (RQ2):** Evidence of indicators that data collected is usefulfor our marine ecosystem -coastal, and aquatic ecosystems. 
 
 ---
 
 https://ecowatch.noaa.gov/thematic/ocean-acidification
 ## Initial Literature Review
 
+| Major Marines and Great Lakes Ecosystem           | Source Agency / URL                    |
+|---------------------------------------------------|----------------------------------------|
+| Aleutian Islands pCO₂ Ecosystem Status Dataset    | National Marine Ecosystem Status       | 
+| Beaufort Sea pCO₂ Ecosystem Status Dataset        | National Marine Ecosystem Status       |
+| California Current pCO₂ Ecosystem Status Dataset  | National Marine Ecosystem Status       |
+| Caribbean pCO2.                                   | National Marine Ecosystem Status       |                                
+|  Eastern Bering Sea pCO2                          |  National Marine Ecosystem Status      |
+|  Gulf of Alaska pCO2                              |  National Marine Ecosystem Status      |
+|   Gulf of America PCO2.                           |  National Marine Ecosystem Status      |
+|  Northern Bering and Chukchi Seas pCO2            |  National Marine Ecosystem Status      |
+|  Northeast pCO2                                   |  National Marine Ecosystem Status      |
+|  Pacific Islands pCO2                             |  National Marine Ecosystem Status      |
+|  Southeast pCO2                                   |  National Marine Ecosystem Status      |
+
 ::: {.callout-tip}
 ### Academic Scaffolding
-Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
+
+Below is a data regarding for sea surface of pCO2 and sea surface pH between year 2019 and 2024.  SHO Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
 :::
+
+| Major Marines and Great Lakes Ecosystem           | CO2 (Between 2019 and 2024)                               | pH (Between 2019 and 2024)                |   
+|---------------------------------------------------|-----------------------------------------------------------|-------------------------------------------|
+| Aleutian Islands pCO₂ Ecosystem Status Dataset    | An upward trend                                           | A small downward trend                    |
+| Beaufort Sea pCO₂ Ecosystem Status Dataset        | No trend                                                  | No trend                                  |
+| California Current pCO₂ Ecosystem Status Dataset  |  A significant increase                                   | Significant decreasing trend              |
+| Caribbean pCO2.                                   | An increase in trend                                      | No significant change                     |
+|  Eastern Bering Sea pCO2                          | A significant increasing trend                            | significant decreasing trend              |
+|  Gulf of Alaska pCO2                              | No significant trend                                      | No significant trend                      |
+|  Gulf of America pCO2                             | A significant increasing trend                            | No significant trend                      |
+|  Northern Bering and Chukchi Seas pCO2            | In the last 5 years, there is no apparent trend and values| In the last five years values are similar |
+|  Northeast pCO2                                   | No trend                                                  | No trend                                  |
+|  Pacific Islands pCO2                             | No trend                                                  | No significant                            |
+|  Southeast pCO2                                   | No trend                                                  | No significant trend                      |
 
 ### Prior Work 1: Data Source:
 
@@ -66,12 +97,6 @@ Description of Sea Surface pH:
 
 Man-made (or “anthropogenic”) CO2 that is taken up by the ocean influences the chemistry of seawater, resulting in an increase in hydrogen ion concentration of the surface ocean (i.e. a decrease in surface ocean pH). pH can be viewed as a “master variable” in ocean chemistry, controlling acid-base balance in the sea. It is also a common way to quantify ocean acidification: average surface ocean pH has decreased by more than 0.1 units since the beginning of the industrial revolution (Jiang et al., 2023). 
 
-Briefly document the raw data you intend to use to answer your research questions.
+Data Source:
 
-
-| Data Asset Name                                  | Source Agency / URL                    | Format (.csv, API, SQL) | Row/Column Count (Est.) |
-|--------------------------------------------------|----------------------------------------|-------------------------|-------------------------|
-| Aleutian Islands pCO₂ Ecosystem Status Dataset   | National Marine Ecosystem Status       |                         |                         |
-| Beaufort Sea pCO₂ Ecosystem Status Dataset       | National Marine Ecosystem Status       |                         |                         |
-| California Current pCO₂ Ecosystem Status Dataset | National Marine Ecosystem Status       |                         |                         |
-| City Data Portal Dataset                         | City Data Portal                       | .csv                    |                         |
+Global observations of pCO2 from automated shipboard systems that take in and analyze water while a vessel is moving are aggregated in the Surface Ocean CO2 Atlas (SOCAT; Bakker et al., 2016). These shipboard observations have been combined with data from available observational, model-based, and satellite products (e.g., sea-surface temperature, salinity, and wind speed) to create estimates of surface ocean pCO2 in U.S. Large Marine Ecosystems over multiple decades, using a technique known as machine learning (Sharp et al., 2024). The pCO2 data shown here as an ecosystem indicator of ocean acidification represent regional annual averages of these mapped estimates. Uncertainty in pCO2 is estimated from a data-based validation of the machine-learning algorithms for each Large Marine Ecosystem, scaled by the data coverage in a given month. 
