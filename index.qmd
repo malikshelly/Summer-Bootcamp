@@ -13,22 +13,28 @@ format:
 
 ::: {.callout-note}
 ### Lab Task 1: The "Why"
-The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is the contributing factor. This The topic ts related to a sub topic in my chemistry curriculum and my students will learn the cause and impacts it has in our lives. This would include research. 
+The real world context of my topic is related to "Ocean Acidification" and the impact it has in our lives. This is a pressing issue in the world we live in today. "Why do ocean acidification levels differ among countries with coastlines in different ocean regions?" One of the contributing factor being global warming and how the the formation of excessive carbon dioxide is a factor. My topic will compare the data to a few countries by " using monitoring stations in GOA-ON" to explore the casues of different acidification levels.The topic is relevant and it is intertwined with the MCPS curriculum unit "Acids and Bases" where students learn the cause and impacts of changing ocean chemistry.
 
 
-*Start typing your project introduction here...*
+*Start typing your project introduction here...* Our ocean absorbs a large amount of carbon dioxide and this is changing the chemistry of our ocean. This absorption of cardon dioxide is increasing the acidity of our ocean, which has impacted marine life and people who depend on them. NOAA Pacific Marine Environmental Laboratory Carbon Group,has through their data shown ocean CO2 rising with an increase in atmospheric CO2. In turn, the pH of the ocean decreases, which reflects an increasd in acidity. https://oceanacidification.noaa.gov/what-is-ocean-acidification/?utm_source=chatgpt.com
+  https://ecowatch.noaa.gov/national-status https://ecowatch.noaa.gov/thematic/ocean-acidification
 
----
+---https://ecowatch.noaa.gov/national-status
+
+
+
+
+
 
 ## Official Research Questions
 
 Your project must be guided by clear, measurable data science inquiries. Use the format below to define your scope.
 
-* **Primary Research Question (RQ1):** *e.g., To what extent can historical local weather patterns predict weekend public transit delays in major urban centers?*
-* **Secondary Research Question (RQ2):** *e.g., Does this predictive relationship hold true across different socio-economic neighborhoods within the city limits?*
+* **Primary Research Question (RQ1):** *e.g., How do acidification and decreased pH affect marine organisms? 
+* **Secondary Research Question (RQ2):* To check for indicators that data collected is safe for our marine ecosystem -coastal, and aquatic ecosystems. Our ocean absorbs carbon dioxide which is causing a fundamental and global change in the chemistry of ocean.
 
 ---
-
+https://ecowatch.noaa.gov/thematic/ocean-acidification
 ## Initial Literature Review
 
 ::: {.callout-tip}
@@ -36,7 +42,12 @@ Your project must be guided by clear, measurable data science inquiries. Use the
 Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
 :::
 
-### Prior Work 1: [Microplastic–Tebuconazole Interactions Under Ocean Acidification: Role of Material Type and Salinity]
+### Prior Work 1: Data Source:
+
+Global observations of pCO2 from automated shipboard systems that take in and analyze water while a vessel is moving are aggregated in the Surface Ocean CO2 Atlas (SOCAT; Bakker et al., 2016). These shipboard observations have been combined with data from available observational, model-based, and satellite products (e.g., sea-surface temperature, salinity, and wind speed) to create estimates of surface ocean pCO2 in U.S. Large Marine Ecosystems over multiple decades, using a technique known as machine learning (Sharp et al., 2024). The pCO2 data shown here as an ecosystem indicator of ocean acidification represent regional annual averages of these mapped estimates. Uncertainty in pCO2 is estimated from a data-based validation of the machine-learning algorithms for each Large Marine Ecosystem, scaled by the data coverage in a given month. 
+ 
+ 
+
 * **Source/Authors:** 
 * **Core Finding:** 
 * **How it informs our project:** 
@@ -49,10 +60,18 @@ Find at least two academic papers, industry reports, or documentation sources re
 ---
 
 ## Data Source Orientation
+Global observations of pCO2 from automated shipboard systems that take in and analyze water while a vessel is moving are aggregated in the Surface Ocean CO2 Atlas (SOCAT; Bakker et al., 2016). These shipboard observations have been combined with data from available observational, model-based, and satellite products (e.g., sea-surface temperature, salinity, and wind speed) to create estimates of surface ocean pCO2 in U.S. Large Marine Ecosystems over multiple decades, using a technique known as machine learning (Sharp et al., 2024). 
+
+Description of Sea Surface pH:
+
+Man-made (or “anthropogenic”) CO2 that is taken up by the ocean influences the chemistry of seawater, resulting in an increase in hydrogen ion concentration of the surface ocean (i.e. a decrease in surface ocean pH). pH can be viewed as a “master variable” in ocean chemistry, controlling acid-base balance in the sea. It is also a common way to quantify ocean acidification: average surface ocean pH has decreased by more than 0.1 units since the beginning of the industrial revolution (Jiang et al., 2023). 
 
 Briefly document the raw data you intend to use to answer your research questions.
 
-| Data Asset Name  | Source Agency / URL | Format (.csv, API, SQL) | Row/Column Count (Est.) |
-|----------------- |---------------------|-------------------------|-------------------------|
-| *Example Dataset*| *City Data Portal*  | *.csv*                  | *~50,000 x 12*          |
-|                  |                     |                         |                         |
+
+| Data Asset Name                                  | Source Agency / URL                    | Format (.csv, API, SQL) | Row/Column Count (Est.) |
+|--------------------------------------------------|----------------------------------------|-------------------------|-------------------------|
+| Aleutian Islands pCO₂ Ecosystem Status Dataset   | National Marine Ecosystem Status       |                         |                         |
+| Beaufort Sea pCO₂ Ecosystem Status Dataset       | National Marine Ecosystem Status       |                         |                         |
+| California Current pCO₂ Ecosystem Status Dataset | National Marine Ecosystem Status       |                         |                         |
+| City Data Portal Dataset                         | City Data Portal                       | .csv                    |                         |
