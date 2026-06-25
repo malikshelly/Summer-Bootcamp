@@ -18,7 +18,7 @@ The real world context of my topic is related to "Ocean Acidification" and the i
 *Start typing your project introduction here...* Our ocean absorbs a large amount of carbon dioxide and this is changing the chemistry of our ocean. This absorption of cardon dioxide is increasing the acidity of our ocean, which has impacted marine life and people who depend on them. NOAA Pacific Marine Environmental Laboratory Carbon Group,has through their data shown ocean CO2 rising with an increase in atmospheric CO2. In turn, the pH of the ocean decreases, which reflects an increasd in acidity. https://oceanacidification.noaa.gov/what-is-ocean-acidification/?utm_source=chatgpt.com
   https://ecowatch.noaa.gov/national-status https://ecowatch.noaa.gov/thematic/ocean-acidification
 
----https://ecowatch.noaa.gov/national-status
+https://ecowatch.noaa.gov/national-status
 
 
 
@@ -33,6 +33,7 @@ Your project must be guided by clear, measurable data science inquiries. Use the
 * **Secondary Research Question (RQ2):* To check for indicators that data collected is safe for our marine ecosystem -coastal, and aquatic ecosystems. Our ocean absorbs carbon dioxide which is causing a fundamental and global change in the chemistry of ocean.
 
 ---
+
 https://ecowatch.noaa.gov/thematic/ocean-acidification
 ## Initial Literature Review
 
