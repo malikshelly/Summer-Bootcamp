@@ -64,19 +64,19 @@ Data showing sea surface of pCO2 and pH between the year 2019 and 2024. A signif
     
 :::
 
-| Major Marines and Great Lakes Ecosystem                                      | Sea Surface pCO2 (Between 2019 and 2024)                  | Sea Surface pH (Between 2019 and 2024)    |
-|------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------|
-| Aleutian Island pCO₂ Ecosystem Status Dataset                                |  An upward trend                                          | A small downward trend                    |
-| (Alaska)Beaufort Sea pCO₂ Ecosystem Status Dataset                           | No trend                                                  | No trend                                  |
-| (Sea of the Arctice Ocean) California Current pCO₂ Ecosystem Status Dataset  | A significant increase                                    | Significant decreasing trend              |
-| (Cold, slow moving ocean current) Caribbean pCO2.                            | An increase in trend                                      | No significant change                     |
-|  (sub oceanic basin with 7,000 islands) Eastern Bering Sea pCO2              | A significant increasing trend                            | significant decreasing trend              |
-|  (Marine cosystem off the coast of Alaska) Gulf of Alaska pCO2               | No significant trend                                      | No significant trend                      |
-| Gulf of America pCO2 (Oceanic basin of the Atlantic ocean)                   | A significant increasing trend                            | No significant trend                      |
-|  Northern Bering and Chukchi Seas pCO2                                       | In the last 5 years, there is no apparent trend and values| In the last five years values are similar |
-|  Northeast pCO2  (Refers to northeastern United States)                      | No trend                                                  | No trend                                  |
-|  Pacific Islands pCO2  (Micronesia, Melanesia, and Polynesia)                | No trend                                                  | No significant                            |
-|  Southeast pCO2 (Halfway between south and east region of US)                | No trend                                                  | No significant trend                      |
+| Major Marines and Great Lakes Ecosystem                                            | Sea Surface pCO2 (Between 2019 and 2024)                  | Sea Surface pH (Between 2019 and 2024)    |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------|
+| Aleutian Island pCO₂ Ecosystem Status Dataset (Alaska)                             |  An upward trend                                          | A small downward trend                    |
+| Beaufort Sea pCO₂ Ecosystem Status Dataset (Sea of the Arctice Ocean)              | No trend                                                  | No trend                                  |
+| California Current pCO₂ Ecosystem Status Dataset (Cold, slow moving ocean current) | A significant increase                                    | Significant decreasing trend              |
+|  Caribbean pCO2.  (sub oceanic basin with 7,000 islands)                           | An increase in trend                                      | No significant change                     |
+|  Eastern Bering Sea pCO2 (Marine cosystem off the coast of Alaska)                 | A significant increasing trend                            | significant decreasing trend              |
+|  Gulf of Alaska pCO2                                                               | No significant trend                                      | No significant trend                      |
+|  Gulf of America pCO2 (Oceanic basin of the Atlantic ocean)                        | A significant increasing trend                            | No significant trend                      |
+|  Northern Bering and Chukchi Seas pCO2                                             | In the last 5 years, there is no apparent trend and values| In the last five years values are similar |
+|  Northeast pCO2  (Refers to northeastern United States)                            | No trend                                                  | No trend                                  |
+|  Pacific Islands pCO2  (Micronesia, Melanesia, and Polynesia)                      | No trend                                                  | No significant                            |
+|  Southeast pCO2 (Halfway between south and east region of US)                      | No trend                                                  | No significant trend                      |
 
 HO Find at least two academic papers, industry reports, or documentation sources relevant to your domain. Summarize their findings below and explain how your specific project builds upon or differs from their methodology.
 
